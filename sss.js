@@ -1,0 +1,1 @@
+$.get("www.google.com", function(response) { alert(response) });

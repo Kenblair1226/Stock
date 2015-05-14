@@ -1,0 +1,22 @@
+{
+  "name": "Stock",
+  "version": "0.0.0",
+  "description": "A javascript tool for TW stocks",
+  "main": "loadCSV.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kenblair1226/Stock.git"
+  },
+  "keywords": [
+    "stock"
+  ],
+  "author": "Ken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kenblair1226/Stock/issues"
+  },
+  "homepage": "https://github.com/Kenblair1226/Stock"
+}
